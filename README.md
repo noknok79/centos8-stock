@@ -1,4 +1,4 @@
-# CentOS 7.8 - stock
+# CentOS 8 - stock
 
 The file is above 25MB, so i have to upload the file to my google cloud. use 7z to extract the file which is nearly 212MB tar.gz 
 
